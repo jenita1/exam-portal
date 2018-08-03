@@ -1,16 +1,20 @@
 import React,{Component} from 'react';
-import Test1 from  './Test1';
 
-
+import '../../App.css';
 
 export default class Test extends Component{
     render(){
         return(
             <div>
-     <h1>TEST MODE</h1>
                 <div className="container">
-                    <div className="well well-lg">
-                    <Test1/>
+                    <h1>TEST MODE</h1>
+
+                    <div className=" well-lg">
+
+
+                        </div>
+
+
                         {/*<form>*/}
                             {/*<input type="radio" name="gender" value="male"></input> FINE<br/>*/}
 
@@ -33,15 +37,9 @@ export default class Test extends Component{
                             {/*</div>*/}
                             {/*<br/>*/}
                             {/*<br/>*/}
-
-                        {/*</form>*/}
                 </div>
-
-
-
-
             </div>
-            </div>
+
         )
     }
 }

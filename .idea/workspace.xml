@@ -198,6 +198,13 @@
               <item name="lamic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Component" type="462c0819:PsiDirectoryNode" />
+              <item name="Navbar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lamic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lamic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Component" type="462c0819:PsiDirectoryNode" />
               <item name="Sidenav" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -263,12 +270,12 @@
       <workItem from="1532087693982" duration="80000" />
       <workItem from="1532094424722" duration="2812000" />
       <workItem from="1532237771225" duration="1500000" />
-      <workItem from="1533265020366" duration="636000" />
+      <workItem from="1533265020366" duration="699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49653000" />
+    <option name="totallyTimeSpent" value="49716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="25" width="1313" height="743" extended-state="6" />
